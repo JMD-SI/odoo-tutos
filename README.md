@@ -16,7 +16,7 @@ Il était donc temps que je l’installe pour "jouer" avec et voir en pratique c
 Pour cette découverte, j'ai commencé simplement :
 1. Lecture intensive de la documentation officielle.
 2. Création d'une machine virtuelle (VM) locale.
-3. Installation de la **version 18 Community** (la version la plus récente lorsque je me suis lancé).
+3. Installation de la **version 19 Community** (la version la plus récente lorsque je me suis lancé).
 
 Tester un tel outil sans situation concrète, c’est un peu comme visiter une nouvelle ville sans plan ni guide : on passe un bon moment, on repart avec de belles images, mais on risque de passer à côté de l’essentiel.
 
