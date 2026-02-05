@@ -120,4 +120,13 @@ pip install -r requirements.txt
 ```
 
 
+<div align="center">
+
+| **[← Précédent]** | **[📖 Sommaire]** | **[→ Suivant]** |
+|---------------------------|---------------------------|-------------------------|
+|  | [Sommaire](../README.md) | [02 - Config Nginx](02-nginx.md) |
+
+</div>
+
+
 JMD @2026
