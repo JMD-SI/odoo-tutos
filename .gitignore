@@ -1,0 +1,14 @@
+# Projet
+# --------------------------------
+# Exclure le répertoire temp (et tout son contenu)
+temp/
+# Exclure tous les fichiers .zip
+*.zip
+# Exclure les fichiers qui finissent par _old avant l'extension 
+# (ex: fichier_old.txt, projet_old.py, backup_old.zip)
+*_old.*
+
+# Windows
+# --------------------------------
+Thumbs.db 
+Desktop.ini
