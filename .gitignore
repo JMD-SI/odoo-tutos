@@ -1,14 +1,24 @@
-# Projet
-# --------------------------------
-# Exclure le répertoire temp (et tout son contenu)
+# --- Tes règles personnalisées ---
+# Exclure le répertoire temp
 temp/
-# Exclure tous les fichiers .zip
+
+# Exclure tous les fichiers .zip (récursif)
 *.zip
-# Exclure les fichiers qui finissent par _old avant l'extension 
-# (ex: fichier_old.txt, projet_old.py, backup_old.zip)
+
+# Exclure les fichiers finissant par _old avant l'extension
 *_old.*
 
-# Windows
-# --------------------------------
-Thumbs.db 
+# --- VS Code ---
+# Ignore les paramètres locaux de l'éditeur, l'historique et les extensions recommandées
+.vscode/
+.history/
+*.code-workspace
+
+# --- Windows (Optionnel mais conseillé) ---
+Thumbs.db
 Desktop.ini
+$RECYCLE.BIN/
+
+# --- Python / Odoo (Si tu travailles dessus) ---
+__pycache__/
+*.py[cod]
