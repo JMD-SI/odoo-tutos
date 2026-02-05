@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 <div align="center">
 
-| **[← Précédent]** | **[📖 Sommaire]** | **[→ Suivant]** |
+|   **← Précédent**   |   **📖 Sommaire**   |   **→ Suivant**   |
 |---------------------------|---------------------------|-------------------------|
 |  | [Sommaire](../README.md) | [02 - Config Nginx](02-nginx.md) |
 
