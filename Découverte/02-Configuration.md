@@ -68,6 +68,8 @@ sudo systemctl start odoo
 
 > [!TIP] 
 > A partir de là, Odoo doit fonctionner sur le port 8069
+
+> [!TIP] 
 >  http://[Votre IP]:8069
 
 
