@@ -2,7 +2,7 @@
 
 Pour mes tests, j’ai choisi d’auto-héberger **Odoo 19 Community** sur une VM Linux Ubuntu via mon petit serveur local.
 
-## Créer le fichier de configuration
+## 🧩 Créer le fichier de configuration
 
 Fichier de configuration Odoo :
 * **Création de odoo.conf**
@@ -28,7 +28,7 @@ logfile = /var/log/odoo/odoo.log
 Sauvegarder et quitter nano (Ctrl+O, Entrée, Ctrl+X)
 
 
-## Créer le service odoo 
+## ⚙️ Créer le service odoo 
 
 
 * Créer le fichier service **odoo.service** avec :
@@ -72,7 +72,7 @@ sudo systemctl start odoo
 
 
 
-## Basculer en HTTPS avec Nginx  
+## 🔒 Basculer en HTTPS avec Nginx  
 
 
 * On commence par installer Nginx et certbot  
@@ -135,9 +135,19 @@ sudo systemctl restart nginx
 
 
 
+
+<div align="center">
+
+[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./01-installation.md)
+[![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./03-Install_Module.md)
+
+</div>
+
  
 
 
+JMD @2026
 
 
 

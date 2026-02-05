@@ -1,4 +1,4 @@
-# 🐧📦 Installation de Odoo 19 Community sur Ubuntu 24.04
+# 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04
 
 Pour mes tests, j’ai choisi d’auto-héberger **Odoo 19 Community** sur une VM Linux Ubuntu via mon petit serveur local.
 
@@ -123,18 +123,17 @@ pip install -r requirements.txt
 
 
 
-
-
-
-
-
 <div align="center">
-
-|   **← Précédent**   |   **📖 Sommaire**   |   **→ Suivant**   |
-|---------------------------|---------------------------|-------------------------|
-|  | [Sommaire](../README.md) | [02 - Configuration](02-Configuration.md) |
+ 
+[![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./02-configuration.md)
 
 </div>
 
+ 
 
+
+
+
+ 
 JMD @2026

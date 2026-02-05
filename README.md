@@ -11,7 +11,7 @@ C’est d’autant plus dommage de ne pas me lancer qu'il existe une version **C
 
 Il était donc temps que je l’installe pour "jouer" avec et voir en pratique ce que c'est réellement ...
 
-## Ma démarche
+## 🎨 Ma démarche
 
 Pour cette découverte, j'ai commencé simplement :
 1. Lecture intensive de la documentation officielle.
@@ -22,7 +22,7 @@ Tester un tel outil sans situation concrète, c’est un peu comme visiter une n
 
 Je me suis donc imaginé un petit scénario rigolo me permetant d'utiliser et de customiser les fonctionalités attendues d'un tel outil. 
 
-## Le résultat
+## 🖼️ Le résultat
 
 J’ai la "sale manie", pour fixer mes idées et mes connaissances, de prendre énormément de notes et de m'obliger "à formaliser" de façon accessible ce que j'ai appris, il m’a semblé pertinent de partager ce parcours. 
 
@@ -33,7 +33,9 @@ Je n'ai rien inventé et utilisé abondamment la **Documentation officielle** d'
 Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage de cheveux ...
  
 ## Sommaire
-[01 - 🐧📦 Installation de Odoo 19 Community sur Ubuntu 24.04](Découverte/01-Installation.md)
+[01 - 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04](Découverte/01-Installation.md)
+[02 - 📋 Configuration de Odoo ](Découverte/02-Configuration.md)
+[03 - 📦 Installation de modules](Découverte/03-Install_Module.md)
 
 
 JMD @2026
