@@ -64,10 +64,7 @@ sudo apt install -y python3 python3-pip python3-venv python3-dev
 Odoo nécessite de nombreuses bibliothèques système pour compiler ses dépendances :
 
 ```bash
-sudo apt install -y libpq-dev libxml2-dev libxslt1-dev libxmlsec1-dev \
-libjpeg-dev libpng-dev libfreetype6-dev liblcms2-dev \
-libldap2-dev libsasl2-dev libssl-dev \
-libblas-dev libatlas-base-dev node-less
+sudo apt install -y libpq-dev libxml2-dev libxslt1-dev libxmlsec1-dev libjpeg-dev libpng-dev libfreetype6-dev liblcms2-dev libldap2-dev libsasl2-dev libssl-dev libblas-dev libatlas-base-dev node-less
 
 ```
 
