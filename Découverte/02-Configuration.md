@@ -71,3 +71,76 @@ sudo systemctl start odoo
 >  http://[Votre IP]:8069
 
 
+
+## Basculer en HTTPS avec Nginx  
+
+
+* On commence par installer Nginx et certbot  
+```bash
+sudo apt install nginx certbot python3-certbot-nginx
+``` 
+
+* On génère un certificat pour l’ip du serveur :
+```bash
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/nginx-selfsigned.key -out /etc/ssl/certs/nginx-selfsigned.crt -subj "/CN=[Votre IP]"
+``` 
+ 
+
+* créer le vhost du site :
+```bash
+sudo rm /etc/nginx/sites-enabled/default
+sudo nano /etc/nginx/sites-available/odoo 
+``` 
+
+* Avec la configuration : 
+```bash
+server {
+    listen 80;
+    server_name 192.168.1.15;
+    return 301 https://192.168.1.15$request_uri;
+}
+
+server {
+    listen 443 ssl;
+    server_name 192.168.1.15;
+
+    ssl_certificate /etc/ssl/certs/nginx-selfsigned.crt;
+    ssl_certificate_key /etc/ssl/private/nginx-selfsigned.key;
+
+    location / {
+        proxy_pass http://127.0.0.1:8069;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    location /longpolling/ {
+        proxy_pass http://127.0.0.1:8072;
+    }
+}
+``` 
+
+* Puis l’activer !
+```bash
+sudo ln -s /etc/nginx/sites-available/odoo /etc/nginx/sites-enabled/ 
+sudo nginx -t # Test config 
+sudo systemctl restart nginx
+``` 
+
+
+> [!TIP] 
+> Maintenant, on peut accéder au site avec http://[Votre IP] 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
