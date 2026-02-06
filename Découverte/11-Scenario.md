@@ -1,6 +1,6 @@
-# 🐧 Scénario
+# 📜 Scénario
 
-## L'histoire
+## 🎸 L'histoire
 
 Tout a commencé il y a quelques mois : **3 potes**, jeunes étudiants et fans de musique, ont décidé de se lancer dans la vente de CD sur les marchés pour financer leurs places au festival de musique electro Creamfields, au Royaume-Uni.
 
@@ -15,13 +15,13 @@ Ils montent donc un business simple :
 - **Tri, nettoyage et valorisation** des boites et des CD
 - **Revente** avec belle marge sur un stand pro et rassurant
 
-## La situation
+## 🔥 La situation
 
 **Franchement, ça marche du tonnerre** ! Ils gagnent bien plus que prévu.
 
 **Mais** le volume augmente, la tenue de stand est chronophage, ils ont écumé les villages alentour, et ils sont conscient que leur business **non déclaré** devient **borderline**...
 
-## L'objectif 
+## 🎯 L'objectif 
 
 Ils décident donc d'accélérer et de structurer leur commerce autour de 3 axes :
 * Régulariser leur situation légale 
