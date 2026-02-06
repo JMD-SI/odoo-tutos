@@ -38,6 +38,6 @@ Ils décident donc d'accélérer et de structurer leur commerce autour de 3 axes
 <div align="center">
  
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](../README.md#sommaire)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./12-SituationLegale.md)
 
 </div>

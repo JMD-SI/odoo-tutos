@@ -37,6 +37,7 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
 ### Scénario et étude fonctionelle
 * [1.1 - 📜 Scénario](Découverte/11-Scenario.md)
 * [1.2 - 🏛️ Situation légale et Business plan](Découverte/12-SituationLegale.md)
+* [1.3 - 🌐 vente en ligne](Découverte/13-VenteEnLigne.md)
 
     
 

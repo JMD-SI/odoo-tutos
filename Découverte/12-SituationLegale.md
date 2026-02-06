@@ -41,7 +41,7 @@ Les hypotheses de business sont :
 
 | Sujet    |          | Produits | Charges   |
 |:---------|:--------:|---------:|----------:|
-|Ventes	                                |  [250€ par WE]    |   1500 €	|        |
+|Ventes	                                | [250€ par WE]     |   1500 €	|        |
 |Ventes	web                             |                   |    500 €	|        |
 |URSSAF 	                            | [21,2% du CA]     |           |   318 €|
 |Achat stock 	                        | [1/3 du CA]       |           |   500 €|
@@ -61,18 +61,16 @@ Les hypotheses de business sont :
 Leur seuil de rentabilité est à 840€ de CA mensuel 
  
 > [!TIP]  
-> Face aux difficultés et à l'investissement temps qu'il represente, ce business n'a aucun interet sous cette forme, fuyez pauvres fous !!! 
-
+> Face aux difficultés et à l'investissement temps qu'il represente, ce business n'a que peu d'interet sous cette forme ...  
+> Developper la vente en ligne en diminuant le nombre de marchés/Vides greniers serait clairement une piste d'amélioration   
   
-
-
 
 
 
 <div align="center">
 
-[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./01-Installation.md)
+[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./11-Scenario.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./03-Install_Module.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./13-VenteEnLigne.md)
 
 </div>
