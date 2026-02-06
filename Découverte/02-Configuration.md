@@ -139,7 +139,7 @@ sudo systemctl restart nginx
 <div align="center">
 
 [![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./01-installation.md)
-[![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md)
+[![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
 [![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./03-Install_Module.md)
 
 </div>

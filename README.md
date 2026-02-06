@@ -33,6 +33,7 @@ Je n'ai rien inventé et utilisé abondamment la **Documentation officielle** d'
 Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage de cheveux ...
  
 ## Sommaire
+# Installation & Initialisation
 [01 - 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04](Découverte/01-Installation.md)
 [02 - 📋 Configuration de Odoo ](Découverte/02-Configuration.md)
 [03 - 📦 Installation de modules](Découverte/03-Install_Module.md)
