@@ -119,7 +119,23 @@ pip install -r requirements.txt
 
 ```
 
+Puis installation du necessaire à Odoo, listés dans le fichier requirements.txt
 
+```bash 
+pip install -r requirements.txt
+
+```
+
+
+## 🧪 Création du répertoire pour les futurs modules
+
+Il est recommandé de ne pas mélanger le code source d'Odoo et les ajouts tiers (les nôtres ou ceux téléchargées).
+On va donc créer un répertoire dédiée à nos addons :
+
+```bash
+sudo mkdir -p /opt/odoo/custom-addons
+sudo chown -R odoo:odoo /opt/odoo/custom-addons
+```
 
 
 
