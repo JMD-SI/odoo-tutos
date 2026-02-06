@@ -61,7 +61,7 @@ Les hypotheses de business sont :
 Leur seuil de rentabilité est à 840€ de CA mensuel 
  
 > [!TIP]  
-> Ce business n'a aucun interet, fuyez pauvres fous !!! 
+> Face aux difficultés et à l'investissement temps qu'il represente, ce business n'a aucun interet sous cette forme, fuyez pauvres fous !!! 
 
   
 
