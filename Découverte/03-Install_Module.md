@@ -69,7 +69,7 @@ Pour ceci, il faut :
 
 > [!TIP] 
 > Certains modules ont besoin de bibliothèques Python supplémentaires.  
-> En cas d'echec d'activation, cci est alors indiqué dans le message d'erreur (ou dans les logs) 
+> En cas d'echec d'activation, ceci est alors indiqué dans le message d'erreur (ou dans les logs) 
 
  
 
@@ -77,7 +77,7 @@ Pour ceci, il faut :
 
 [![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./02-Configuration.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./04-ToDo.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](../README.md#sommaire)
 
 </div>
 

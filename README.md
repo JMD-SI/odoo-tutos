@@ -38,7 +38,7 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
 * [0.2 - 📋 Configuration de Odoo ](Découverte/02-Configuration.md)
 * [0.3 - 📦 Installation de modules](Découverte/03-Install_Module.md)
 
-### Scénario de étude fonctionelle
+### Scénario et étude fonctionelle
 * [1.1 - 🐧 Scénario](Découverte/11-Scenario.md)
 
   
