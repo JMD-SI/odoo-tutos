@@ -21,6 +21,11 @@ Ils montent donc un business simple :
 
 **Mais** le volume augmente, la tenue de stand est chronophage, ils ont écumé les villages alentour, et ils sont conscient que leur business **non déclaré** devient **borderline**...
 
+Juliette est un peu inquiète et souhaite rester bien dans les clous.   
+Mattéo de son coté, étudient en informatique, a un projet en informatique à fournir pour cette année et « est chaud » pour qu’il concerne leur business.  
+Enfin, Dylan, qui suit des études un peu plus exigeantes, a moins de temps à y consacrer que les deux autres mais ne souhaite pas les laisser tomber pour autant.   
+
+
 ## 🎯 L'objectif 
 
 Ils décident donc d'accélérer et de structurer leur commerce autour de 3 axes :

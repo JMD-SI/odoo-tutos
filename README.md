@@ -28,20 +28,22 @@ J’ai la "sale manie", pour fixer mes idées et mes connaissances, de prendre �
 
 Les pro d’Odoo risquent d’y trouver ici beaucoup de banalités mais mon idée est de partager les différentes étapes de découverte sans reformuler bêtement des documents/sources existantes mais avec une mise en situation concrète et les enjeux qui y sont liés.
 
-Je n'ai rien inventé et utilisé abondamment la **Documentation officielle** d'Odoo, les nombreuses **Vidéos communautaires** (un grand merci à tous les créateurs de tutoriels sur le Web !) et posé d'innombrables questions aux **IA** en les prenant parfois pour des "profs particuliers" (principalement perplexit et Gemini).
+Je n'ai rien inventé et utilisé abondamment la **documentation officielle** d'Odoo, les nombreuses **vidéos communautaires** (un grand merci à tous les créateurs de tutoriels sur le Web !) et posé d'innombrables questions aux **IA** en les prenant parfois pour des "profs particuliers" (principalement perplexity et Gemini).
 
 Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage de cheveux ...
  
 ## Sommaire
+
+### Scénario et étude fonctionelle
+* [1.1 - 📜 Scénario](Découverte/11-Scenario.md)
+* [1.2 - 🏛️ Situation légale et Business plan](Découverte/12-SituationLegale.md)
+
+    
+
 ### Installation & Initialisation
 * [0.1 - 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04](Découverte/01-Installation.md)
 * [0.2 - 📋 Configuration de Odoo ](Découverte/02-Configuration.md)
 * [0.3 - 📦 Installation de modules](Découverte/03-Install_Module.md)
 
-### Scénario et étude fonctionelle
-* [1.1 - 📜 Scénario](Découverte/11-Scenario.md)
-
-  
-  
    
 JMD @2026
