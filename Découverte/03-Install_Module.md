@@ -67,7 +67,7 @@ Pour ceci, il faut :
 * cliquer sur Activer.
 
 
-> [!TIP] 💡
+> 💡  
 > Certains modules ont besoin de bibliothèques Python supplémentaires.  
 > En cas d'echec d'activation, cci est alors indiqué dans le message d'erreur (ou dans les logs) 
 
