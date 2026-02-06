@@ -142,7 +142,7 @@ sudo chown -R odoo:odoo /opt/odoo/custom-addons
 <div align="center">
  
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./02-configuration.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./02-Configuration.md)
 
 </div>
 

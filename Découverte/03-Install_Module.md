@@ -75,7 +75,7 @@ Pour ceci, il faut :
 
 <div align="center">
 
-[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./02-configuration.md)
+[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./02-Configuration.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
 [![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./04-ToDo.md)
 

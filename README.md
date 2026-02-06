@@ -39,7 +39,7 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
 * [0.3 - 📦 Installation de modules](Découverte/03-Install_Module.md)
 
 ### Scénario de étude fonctionelle
-* [1.1 - 🐧 Scénario](Découverte/11-scenario.md)
+* [1.1 - 🐧 Scénario](Découverte/11-Scenario.md)
 
   
   
