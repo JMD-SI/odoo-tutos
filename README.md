@@ -35,17 +35,18 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
 ## Sommaire
 
 ### Scénario et étude fonctionelle
-* [1.1 - 📜 Scénario](Découverte/11-Scenario.md)
-* [1.2 - 🏛️ Situation légale et Business plan](Découverte/12-SituationLegale.md)
-* [1.3 - 🌐 Vente en ligne](Découverte/13-VenteEnLigne.md)
+* [1.1 - 📜 Scénario](Decouverte/11-Scenario.md)
+* [1.2 - 🏛️ Situation légale et Business plan](Decouverte/12-SituationLegale.md)
+* [1.3 - 🌐 Vente en ligne](Decouverte/13-VenteEnLigne.md)
 * [1.4 - ✅ Un outil de gestion ?](Découverte/14-PourquoiERP.md)
+* [1.5 - 🛠️ Modules Odoo](Découverte/15-ModulesOdoo.md)
 
     
 
 ### Installation & Initialisation
-* [0.1 - 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04](Découverte/01-Installation.md)
-* [0.2 - 📋 Configuration de Odoo ](Découverte/02-Configuration.md)
-* [0.3 - 📦 Installation de modules](Découverte/03-Install_Module.md)
+* [0.1 - 🐧 Installation de Odoo 19 Community sur Ubuntu 24.04](Decouverte/01-Installation.md)
+* [0.2 - 📋 Configuration de Odoo ](Decouverte/02-Configuration.md)
+* [0.3 - 📦 Installation de modules](Decouverte/03-Install_Module.md)
 
    
 JMD @2026
