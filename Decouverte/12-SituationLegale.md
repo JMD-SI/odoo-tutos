@@ -28,7 +28,7 @@ Leur objectif est de générer un complément de revenu sans trop "se mouiller" 
 * Ils participent à un vide-grenier par semaine (budget : 40 €/semaine).  
 * La valorisation des CD (nettoyage, retrait des étiquettes, remplacement des boîtiers) coûte environ 5 % du prix d'achat en fournitures.  
 * Ils ne comptent pas, à aujourd'hui, ni l'essence, ni le materiel, ni les sandwitchs et petit dej' mais ont décidé de budgétiser 80 €/mois pour la logistique (essence, matériel, repas).  
-* L'objectif est de faire au maximum "à la débrouille" et "au moins cher", notament avec un auto-hebergment pour le serveur principal de l'outil de gestion de ne pas investir plus de 150 €/an pour le reste de l'infrastructure technique (VPS et nom de domaine).   
+* L'objectif est de faire au maximum "à la débrouille" et "au moins cher", avec un hebergment basique pour le serveur principal de l'outil de gestion et le site web et ne pas investir plus de 150 €/an pour l'infrastructure technique (VPS et nom de domaine).   
 * La vente en ligne (publicité, enveloppes, commissions de paiement/plateformes) est estimée à 20 % du CA web (soit 100 €/mois).  
 * Enfin, Juliette a souscrit une assurance Responsabilité Civile Professionnelle à 15 €/mois.
 

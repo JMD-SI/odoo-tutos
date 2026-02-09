@@ -48,5 +48,7 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
 * [0.2 - 📋 Configuration de Odoo ](Decouverte/02-Configuration.md)
 * [0.3 - 📦 Installation de modules](Decouverte/03-Install_Module.md)
 
-   
+  
+  
+  
 JMD @2026

@@ -38,7 +38,7 @@ Une solution de type Odoo est donc particulièrement adaptée à leur situation 
 * La version Community, qui partage le même coeur que la version Entreprise mais avec moins de facilités, de support et d’applications prêtes à l’emploi, permet au contraire – pour un coût de licence nul – de répondre à leurs besoins, au prix :
     * d’un hébergement géré par eux-mêmes,
     * d’un paramétrage un peu plus complexe,
-    * et d’un investissement initial plus important.
+    * et d’un investissement personnel initial plus important.
    
 
 <div align="center">
