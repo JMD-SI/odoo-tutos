@@ -40,7 +40,7 @@ Enfin, le commerce en ligne implique du marketing digital (SEO et visibilité) p
 
 [![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./12-SituationLegale.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./14-ToDO.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./14-PourquoiERP.md)
 
 </div>
 
