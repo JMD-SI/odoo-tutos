@@ -15,7 +15,7 @@ Suivre la marge réelle – en intégrant les coûts d’achats, les frais de ne
 Dans un système multicanal (vente directe + vente en ligne) avec des produits « unitaires » (un seul exemplaire de chaque CD), le risque majeur est la double vente.
 Il est donc impératif de disposer d’un mécanisme de sortie de stock fiable et d’un suivi des disponibilités en temps réel.
 
-## 📂 structuration et formalisation de l'information est indispensable
+## 📂 Structuration et formalisation de l'information est indispensable
 
 L’évolution du business des trois amis vers une micro-entreprise incluant de la vente en ligne impose une structuration et une formalisation importantes.
 Que ce soit pour :
@@ -29,7 +29,7 @@ Que ce soit pour :
 
 …un outil de gestion intégré est indispensable.
 
-## 🧩 un outil de gestion integré type ERP 
+## 🧩 Un outil de gestion integré type ERP 
 
 Un ERP comme Odoo permet de couvrir l’ensemble du périmètre nécessaire pour gérer tous ces points (et bien plus encore).  
 Une solution de type Odoo est donc particulièrement adaptée à leur situation (ce qui tombe bien pour ce tuto sur Odoo, vous en conviendrez ;).
@@ -45,7 +45,7 @@ Une solution de type Odoo est donc particulièrement adaptée à leur situation 
 
 [![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./13-VenteEnLigne.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./15-ToDO.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./15-ModulesOdoo.md)
 
 </div>
 
