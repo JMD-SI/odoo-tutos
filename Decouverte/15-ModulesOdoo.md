@@ -4,33 +4,57 @@ Plusieurs modules pré-existant seront indispensables à l'implementation de Odo
 
 ## 💼 Socle de base : Produits, Stock et Achats
 
-* Inventaire (Inventory)
-    * Gérer les CD comme articles unitaires (1 seul exemplaire), avec état (Mint/VG+/Good…), boîte, édition, etc.
+Le coeur du système, indispensable aux bases du business de Juliette, Dylan et Mattéo
+
+* Inventaire (Stock)
+    * Gérer les CD comme articles uniques avec gestion des caractéristiques (état, édition, ... )
     * Emplacement physique du stock (Étagère A, B, C du garage).
 
 * Achats (Purchase)
-    * Formaliser l’achat des lots de CD : fournisseur, prix, date, conditions.
+    * Formaliser l’acquisition des lots (vide-greniers, Leboncoin, particuliers ...)
     * Suivre le coût d’acquisition réel pour calculer la marge
     
 
-## 🛒 Vente : Points de vente et vente en ligne
+## 🧑‍🤝‍🧑 Clients : Contacts, fidélisation et réclamations 
+
+* Contacts (contacts)
+    * Centraliser l'annuaire de tous les acteurs du business (acheteurs, vendeurs de lots, fournisseurs de fournitures).
+
+* Marketing par courriel (mass_mailing)
+    * Concevoir et envoyer des emails graphiques à votre base de contacts pour les informer ou proposer des promotions
+
+* Projet (project)
+    * Suivre sous forme de tâches les emails et questions des clients
+
+## 🛒 Canaux de Vente : Terrain et Web
 
 * Point de Vente (point_of_sale)
-    * Gérer les ventes sur les marchés rapidement : encaissement en 3 clics, reçu simple, mise à jour automatique du stock et de la caisse
- 
+    * Interface de vente ("Caisse enregistreuse"), accessible sur tablette/telephone, pour les marchés et vide-greniers.
+
 * Vente en ligne (website + website_sale)
-    * Créer une boutique en ligne simple pour vendre les CD de valeur avec un catalogue connecté à Inventory : stock, photos, états, prix.
+    * Boutique en ligne proposant le catalogue des CD et de leurs caracteristiques, mis à jour en temps réel
+    * Gestion des clients et des achats 
 
-* Connecteur Multi-canal (Tierce partie / OCA)
-    * Pour lier Odoo à Vinted, eBay ou Discogs.
+* Ventes (sale_management)
+    * Indispensable pour la vente en ligne (panier validé devient commande à livrer)
 
-## 📊 Pilotage : Facturation,  Tableaux de Bord
+* Paiement (payment)
+    * Lien avec les passerelles de paiements en ligne (Stripe, PayPal, virement ...)
 
-* Facturation (Invoicing)
-    * génère les factures pour les ventes web et les rapports de ventes pour les marchés
+* Connecteur Multi-canal 
+    * Module externe (OCA) pour lier Odoo à Vinted, eBay ou Discogs et centraliser les commandes provenant de plateformes, sans saisie manuelle
+
+## 📊 Pilotage et administration : Facturation,  Tableaux de Bord
+
+Partie cruciale pour la transparance dans l'équipe et la légalité fiscale.
+
+* Facturation (account)
+    * Génération des factures web et des rapports de vente
+    * Automatise la création du "Livre des recettes" (obligation légale en micro-entreprise) et simplifie le calcul du CA brut pour les déclarations URSSAF
 
 * Tableaux de Bord (Dashboards)
-    * Tableaux et graphiques personnalisés : Ventes, Achats, Frais, marges, parts ...  
+    * Visualisation des performances.
+    * Création de graphiques sur mesure pour suivre la rentabilité réelle et la répartition des bénéfices
 
 
 
