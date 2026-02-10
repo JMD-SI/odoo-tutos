@@ -127,7 +127,7 @@ pip install -r requirements.txt
 ```
 
 
-## 🧪 Création du répertoire pour les futurs modules
+## 📂 Création du répertoire pour les futurs modules
 
 Il est recommandé de ne pas mélanger le code source d'Odoo et les ajouts tiers (les nôtres ou ceux téléchargées).
 On va donc créer un répertoire dédiée à nos addons :
@@ -142,7 +142,7 @@ sudo chown -R odoo:odoo /opt/odoo/custom-addons
 <div align="center">
  
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./02-Configuration.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./22-Configuration.md)
 
 </div>
 

@@ -1,4 +1,4 @@
-# 🛠️ Modules Odoo necessaires 
+# 🛠️ Modules Odoo necessaires / conseillés
 
 Plusieurs modules pré-existant seront indispensables à l'implementation de Odoo Community.  
 
@@ -72,8 +72,10 @@ Partie cruciale pour la transparance dans l'équipe et la légalité fiscale.
     * Visualisation des performances.
     * Création de graphiques sur mesure pour suivre la rentabilité réelle et la répartition des bénéfices
 
+## 🎨 Ergonomie & Design
 
-
+* "Web Responsive" (OCA) 
+    * Module externe (OCA) qui remplace le menu classique par une icône "App Drawer" de la version entreprise
  
 
 
