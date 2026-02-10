@@ -1,4 +1,4 @@
-# ✅ Version de Odoo
+# 🧬 Version de Odoo
 
 
 ## 🦄 Un "petit" avec plein de potes devenu cador de la cour d'école  
@@ -13,7 +13,7 @@ Autour du "coeur" Open Source de l'application, une immense communauté de déve
 
 Aujourd'hui, Odoo est une "licorne" valorisée à plusieurs milliards d'euros. L'entreprise emploie plus de 4 000 salariés pour accompagner plus de 12 millions d'utilisateurs à travers le monde. Chaque année, une nouvelle version majeure vient enrichir cet écosystème.  
  
-## 🧬 Choisir une version de Odoo  
+## 🧭 Choisir une version de Odoo  
  
  Comme souvent en informatique, le choix de la version va s'axer autour de quelques sujets clés :
 * La structure de l'entreprise : une ou plusieurs entités juridiques, type de comptabilité, résponsabilités legales ...
@@ -83,4 +83,13 @@ Début 2026, moment ou j'ecris ceci, la meilleure version à installer est donc 
 Pour des raisons de coûts évidents, la version Community 18 est la solution la plus adaptée, d'autant qu'un des trois pourra se charger de l'administration et de l'hébergement.
 En effet, le cout annuel pour 3 utilisateurs serait bien plus élevé qu'un simple hébergement (150€ Vs 12*3*20€ = 720€). 
 
+
+
+<div align="center">
+
+[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./14-PourquoiERP.md)
+[![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./16-ModulesOdoo.md)
+
+</div>
 

@@ -81,9 +81,9 @@ Partie cruciale pour la transparance dans l'équipe et la légalité fiscale.
 
 <div align="center">
 
-[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./14-PourquoiERP.md)
+[![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./15-VersionOdoo.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./15-ModulesOdoo.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](../README.md#sommaire)
 
 </div>
 

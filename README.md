@@ -36,12 +36,13 @@ Enfin, j'ai fait pas mal de tests ... de retours en arrière ... et d'arrachage 
  
 ## Sommaire
 
-### 1 - Scénario et étude fonctionelle
+### 1 - Scénario et (mini) étude fonctionelle 
 * [1.1 - 📜 Scénario](Decouverte/11-Scenario.md)
 * [1.2 - 🏛️ Situation légale et Business plan](Decouverte/12-SituationLegale.md)
 * [1.3 - 🌐 Vente en ligne](Decouverte/13-VenteEnLigne.md)
 * [1.4 - ✅ Un outil de gestion ?](Decouverte/14-PourquoiERP.md)
-* [1.5 - 🛠️ Modules Odoo](Decouverte/15-ModulesOdoo.md)
+* [1.5 - 🧬 Version de Odoo](Decouverte/15-VersionOdoo.md)
+* [1.6 - 🛠️ Modules Odoo](Decouverte/16-ModulesOdoo.md)
 
     
 

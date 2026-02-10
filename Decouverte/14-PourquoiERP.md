@@ -45,7 +45,7 @@ Une solution de type Odoo est donc particulièrement adaptée à leur situation 
 
 [![Précédent](https://img.shields.io/badge/⬅️%20Précédent-blue)](./13-VenteEnLigne.md)
 [![Sommaire](https://img.shields.io/badge/🏠%20%20%20Sommaire-gray)](../README.md#sommaire)
-[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./15-ModulesOdoo.md)
+[![Suivant](https://img.shields.io/badge/Suivant%20%20%20%20➡️-blue)](./15-VersionOdoo.md)
 
 </div>
 
