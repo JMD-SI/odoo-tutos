@@ -13,7 +13,7 @@ Autour du "coeur" Open Source de l'application, une immense communauté de déve
 
 Aujourd'hui, Odoo est une "licorne" valorisée à plusieurs milliards d'euros. L'entreprise emploie plus de 4 000 salariés pour accompagner plus de 12 millions d'utilisateurs à travers le monde. Chaque année, une nouvelle version majeure vient enrichir cet écosystème.  
  
-## Choisir une version de Odoo  
+## 🧬 Choisir une version de Odoo  
  
  Comme souvent en informatique, le choix de la version va s'axer autour de quelques sujets clés :
 * La structure de l'entreprise : une ou plusieurs entités juridiques, type de comptabilité, résponsabilités legales ...
@@ -33,7 +33,7 @@ La réponse à ces quelques questions conditionne ainsi :
 * Les modules à installer : apps de base, apps officielles ou apps customs/exotiques
   
  
-## Stratégie de mise à jour & Maintenance
+## 🔧 Stratégie de mise à jour & Maintenance
 Odoo est très réactif et sort une nouvelle version majeure chaque année en octobre. Si c'est un vrai plus fonctionnellement, cela peut devenir un défi technique pour les administrateurs et les développeurs.  
 
 Chaque nouvelle version fait évoluer le "coeur" du système, ce qui impacte la structure de la base de données (champs modifiés, supprimés ou déplacés) et potentiellement la compatibilité de vos modules.  
@@ -51,7 +51,7 @@ Début 2026, moment ou j'ecris ceci, la meilleure version à installer est donc 
  
 
 
-## Le casse-tête des versions 
+## 📋 Synthese
 
 |                             |Community                    |Entreprise "Standard"      |  Entreprise "Custom" Saas |  Entreprise "Custom"      |    
 |:----------------------------|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:| 
@@ -78,7 +78,7 @@ Début 2026, moment ou j'ecris ceci, la meilleure version à installer est donc 
 * 💰 : Impact budgétaire (plus il y a de symboles, plus c'est coûteux)
  
  
-## Conclusion
+## 💡 Conclusion
 
 Pour des raisons de coûts évidents, la version Community 18 est la solution la plus adaptée, d'autant qu'un des trois pourra se charger de l'administration et de l'hébergement.
 En effet, le cout annuel pour 3 utilisateurs serait bien plus élevé qu'un simple hébergement (150€ Vs 12*3*20€ = 720€). 
