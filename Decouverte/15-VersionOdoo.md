@@ -79,10 +79,15 @@ Début 2026, moment ou j'ecris ceci, la meilleure version à installer est donc 
  
  
 ## 💡 Conclusion
-
-Pour des raisons de coûts évidents, la version Community 18 est la solution la plus adaptée, d'autant qu'un des trois pourra se charger de l'administration et de l'hébergement.
-En effet, le cout annuel pour 3 utilisateurs serait bien plus élevé qu'un simple hébergement (150€ Vs 12*3*20€ = 720€). 
-
+ 
+* La version Entreprise hébergée en saas sur le site [Odoo.com](https://www.odoo.com) est suffisamment complète et compétitive, mais elle génère des coûts fixes sans doute peu compatibles avec un business encore modeste comme celui de nos amis (3 × 19 €/mois).
+* La version Community, qui partage le même coeur que la version Entreprise mais avec moins de facilités, de support et d’applications prêtes à l’emploi, permet au contraire – pour un coût de licence nul – de répondre à leurs besoins, au prix :
+    * d’un hébergement géré par eux-mêmes,
+    * d’un paramétrage un peu plus complexe,
+    * et d’un investissement personnel initial plus important.
+   
+La **version Community 18** est donc la solution **la plus adaptée** pour leur projet.
+Dans le cadre de ce document, la version de réference sera la v.19 (le temps qu'il soit terminé, la v.19 sera certainement la version préconisée 😊).
 
 
 <div align="center">
